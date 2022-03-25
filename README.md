@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ariel aka @TenebrisMessor
-- 👀 I’m interested in learn lots of more programation languages and work as software developer.
+- 👀 I’m interested in learn lots of more programation skills and work as software developer.
 - 🌱 I’m currently learning backend and frontend concepts but alrready familiar with many languages such as c, c++, JavaScript(vue JS, Angular) and assembly languages, as well html5 and CSS.
 - 💞️ I’m currently collaborating with lauch x and microsoft to learn more about my career. 
 - 📫 How to reach me ...
