@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arie aka @TenebrisMessor
+- 👋 Hi, I’m Ariel aka @TenebrisMessor
 - 👀 I’m interested in learn lots of more programation languages and work as software developer.
 - 🌱 I’m currently learning python and java script but alrready familiar with c, c++, JavaScript(vue JS, Angular) and assembly languages, as well html5 and CSS.
 - 💞️ I’m looking to collaborate on lauch x and microsoft to learn more about my career. 
