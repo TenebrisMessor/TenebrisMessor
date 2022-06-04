@@ -4,9 +4,7 @@
 - 💞️ I’m currently collaborating with lauch x and microsoft to learn more about my career. 
 - 📫 How to reach me ...
 -   -Linkedin: Ariel Hernández Rojas https://www.linkedin.com/in/ariel-hern%C3%A1ndez-rojas-943374149/
--   
-@LaunchX-InnovaccionVirtual 
-@innovaccion-virtual
+-  
 <!---
 TenebrisMessor/TenebrisMessor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
