@@ -33,9 +33,10 @@
 <p align="left">
 <a href="https://dev.to/tenebrismessor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tenebrismessor" height="30" width="40" /></a>
 <a href="https://twitter.com/arielhr477" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arielhr477" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ariel-hern%c3%a1ndez-rojas-943374149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ariel-hern%c3%a1ndez-rojas-943374149/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/tenebrismessor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="tenebrismessor" height="30" width="40" /></a>
-<a href="https://fb.com/ariel hernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ariel hernandez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ariel-hern%c3%a1ndez-rojas-943374149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ariel-hern%c3%a1ndez-rojas-943374149/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19655315/ariel-hernández-rojas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ariel-hernández-rojas" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/TenebrisMessor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="tenebrismessor" height="30" width="40" /></a>
+<a href="https://www.facebook.com/sirfcap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ariel hernandez" height="30" width="40" /></a>
 <a href="https://instagram.com/ariel_t_br" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ariel_t_br" height="30" width="40" /></a>
 </p>
 
@@ -45,10 +46,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/tenebrismessor"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tenebrismessor" /></a><a href="https://ko-fi.com/TenebrisMessor"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="TenebrisMessor" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tenebrismessor&show_icons=true&locale=en&layout=compact" alt="tenebrismessor" /></p>
+<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tenebrismessor&show_icons=true&locale=en&layout=compact" alt="tenebrismessor" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tenebrismessor&show_icons=true&locale=en" alt="tenebrismessor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tenebrismessor&" alt="tenebrismessor" /></p>
-
-
