@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arielhr477" target="blank"><img src="https://img.shields.io/twitter/follow/arielhr477?logo=twitter&style=for-the-badge" alt="arielhr477" /></a> </p>
 
-- 🔭 I’m currently working on **improving my own skills**
+- 🔭 I’m currently working on **improving my own skills creating a great developer portfolio **
 
 - 🌱 I’m currently learning **mysql, nodeJS, Android, Java,**
 
