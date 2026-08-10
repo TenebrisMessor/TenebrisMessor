@@ -1,49 +1,40 @@
-<h1 align="center">Hello world 👋, I'm Ariel Hernandez aka TenebrisMessor</h1>
-<h3 align="center">A passionate fullstack developer from Mexico.</h3>
+<h1 align="center">Hola, soy Ariel Hernández 👋</h1>
+<h3 align="center">Control & Automation Engineer + Solutions Architect</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tenebrismessor&label=Profile%20views&color=0e75b6&style=flat" alt="tenebrismessor" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tenebrismessor" alt="tenebrismessor" /></a> </p>
-
-<p align="center"> <a href="https://twitter.com/arielhr477" target="blank"><img src="https://img.shields.io/twitter/follow/arielhr477?logo=twitter&style=for-the-badge" alt="arielhr477" /></a> </p>
-
-- 🔭 I’m currently working on **improving my own skills creating a great developer portfolio **
-
-- 🌱 I’m currently learning **mysql, nodeJS, Android, Java,**
-
-- 👯 I’m looking to collaborate on **create code professionally with whoever gives me an opportunity to increase my experience and improve my skill**
-
-- 🤝 I’m looking for help with **rise with my career**
-
-- 👨‍💻 All of my projects are available at [https://github.com/TenebrisMessor](https://github.com/TenebrisMessor)
-
-- 📝 I regularly write articles on [https://tenebrismessor.github.io/my_launchx_blog/](https://tenebrismessor.github.io/my_launchx_blog/)
-
-- 💬 Ask me about **html, css, js, nodejs, angularjs, vuejs.**
-
-- 📫 How to reach me **arielhryo@hotmail.com**
-
-- ⚡ Fun fact **I am a machine learning a lot of usefull things but I know a lot of useless information too.**
-
-<h3 align="Center">Connect with me:</h3>
-<p align="Center">
-<a href="https://dev.to/tenebrismessor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tenebrismessor" height="30" width="40" /></a>
-<a href="https://twitter.com/arielhr477" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arielhr477" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ariel-hern%c3%a1ndez-rojas-943374149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ariel-hern%c3%a1ndez-rojas-943374149/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19655315/ariel-hernández-rojas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ariel-hernández-rojas" height="30" width="40" /></a>
-<a href="https://codesandbox.io/u/TenebrisMessor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="tenebrismessor" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sirfcap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ariel hernandez" height="30" width="40" /></a>
-<a href="https://instagram.com/ariel_t_br" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ariel_t_br" height="30" width="40" /></a>
+<p align="center">
+Ingeniero en Control y Automatización (ESIME Zacatenco, IPN) construyendo el puente entre sistemas embebidos, control industrial y arquitectura cloud.
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"><a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+- 🔭 Actualmente trabajando en **APEx Orión** (sistema de adquisición y filtrado de señales en tiempo real, Raspberry Pi 5, en proceso de patente) y **APEx Forge** (mi laboratorio personal de automatización y prototipado)
 
-<h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/tenebrismessor"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tenebrismessor" /></a><a href="https://ko-fi.com/TenebrisMessor"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="TenebrisMessor" /></a></p><br><br>
+- 🌱 En camino hacia certificaciones **AZ-104 → AZ-305 → GCP**, integrando arquitectura cloud con sistemas de control embebido
 
-<br><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tenebrismessor&show_icons=true&locale=en&layout=compact" alt="tenebrismessor" /></p>
+- 🤖 Fundador de **APEx Harmony Robotics** — automatización industrial, integración PLC/HMI, monitoreo IoT
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tenebrismessor&show_icons=true&locale=en" alt="tenebrismessor" /></p>
+- 💬 Pregúntame sobre **control no lineal, sistemas embebidos, Python, C/C++, MATLAB, arquitectura edge-to-cloud**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tenebrismessor&" alt="tenebrismessor" /></p>
+- 📫 Contacto profesional: **ariel.hernandez.rojas@apexharmonyrobotics.com**
+
+<h3 align="center">Conecta conmigo:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/ariel-hern%c3%a1ndez-rojas-943374149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://instagram.com/ariel_t_br" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+</p>
+
+<h3 align="center">Herramientas principales:</h3>
+<p align="center">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/></a>
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macos" width="40" height="40"/></a>
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/></a>
+</p>
+
+<br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tenebrismessor&show_icons=true&locale=en&layout=compact" alt="tenebrismessor" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=tenebrismessor&show_icons=true&locale=en" alt="tenebrismessor" /></p>
