@@ -34,6 +34,3 @@ Ingeniero en Control y Automatización (ESIME Zacatenco, IPN) construyendo el pu
 <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macos" width="40" height="40" style="background-color: white; border-radius: 50%; padding: 4px;"/></a>
 <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/></a>
 </p>
-
-<br>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tenebrismessor&show_icons=true&locale=en&theme=tokyonight" alt="tenebrismessor" />
