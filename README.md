@@ -36,5 +36,4 @@ Ingeniero en Control y Automatización (ESIME Zacatenco, IPN) construyendo el pu
 </p>
 
 <br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tenebrismessor&show_icons=true&locale=en&layout=compact" alt="tenebrismessor" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=tenebrismessor&show_icons=true&locale=en" alt="tenebrismessor" /></p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tenebrismessor&show_icons=true&locale=en&theme=tokyonight" alt="tenebrismessor" />
