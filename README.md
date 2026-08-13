@@ -1,27 +1,27 @@
-<h1 align="center">Hola, soy Ariel Hernández 👋</h1>
+<h1 align="center">Hi, I'm Ariel Hernández 👋</h1>
 <h3 align="center">Control & Automation Engineer + Solutions Architect</h3>
 
 <p align="center">
-Ingeniero en Control y Automatización (ESIME Zacatenco, IPN) construyendo el puente entre sistemas embebidos, control industrial y arquitectura cloud.
+Control and Automation Engineer (ESIME Zacatenco, IPN) bridging embedded systems, industrial control, and cloud architecture.
 </p>
 
-- 🔭 Actualmente trabajando en **APEx Orión** (sistema de adquisición y filtrado de señales en tiempo real, Raspberry Pi 5, en proceso de patente) y **APEx Forge** (mi laboratorio personal de automatización y prototipado)
+- 🔭 Currently working on **APEx Orión** (a real-time signal acquisition and filtering system, Raspberry Pi 5, patent pending) and **APEx Forge** (my personal automation and prototyping lab)
 
-- 🌱 En camino hacia certificaciones **AZ-104 → AZ-305 → GCP**, integrando arquitectura cloud con sistemas de control embebido
+- 🌱 Working toward **AZ-104 → AZ-305 → GCP** certifications, integrating cloud architecture with embedded control systems
 
-- 🤖 Fundador de **APEx Harmony Robotics** — automatización industrial, integración PLC/HMI, monitoreo IoT
+- 🤖 Founder of **APEx Harmony Robotics** — industrial automation, PLC/HMI integration, IoT monitoring
 
-- 💬 Pregúntame sobre **control no lineal, sistemas embebidos, Python, C/C++, MATLAB, arquitectura edge-to-cloud**
+- 💬 Ask me about **nonlinear control, embedded systems, Python, C/C++, MATLAB, edge-to-cloud architecture**
 
-- 📫 Contacto profesional: **ariel.hernandez.rojas@apexharmonyrobotics.com**
+- 📫 Professional contact: **ariel.hernandez.rojas@apexharmonyrobotics.com**
 
-<h3 align="center">Conecta conmigo:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/ariel-hern%c3%a1ndez-rojas-943374149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://instagram.com/ariel_t_br" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Herramientas principales:</h3>
+<h3 align="center">Main tools:</h3>
 <p align="center">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
